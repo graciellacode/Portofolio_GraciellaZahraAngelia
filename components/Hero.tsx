@@ -105,8 +105,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="font-body text-white text-base sm:text-lg max-w-xl mt-6 leading-relaxed"
           >
-            Mewujudkan ide menjadi karya nyata. Pengembang Full-Stack dengan minat
-            mendalam pada Frontend, Backend, dan Desain UI/UX.
+            Frontend Developer dengan pengalaman dalam pengembangan web, integrasi backend, dan desain UI/UX.
           </motion.p>
 
           {/* CTAs */}
