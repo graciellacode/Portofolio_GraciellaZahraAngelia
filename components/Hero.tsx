@@ -157,7 +157,7 @@ export default function Hero() {
             </p>
             <div className="mt-3 flex items-center justify-center gap-1.5 bg-volt/20 text-volt border border-volt/40 text-[10px] font-bold py-1 px-3 rounded-full w-fit mx-auto">
               <span className="w-1.5 h-1.5 rounded-full bg-volt animate-ping" />
-              2+ Thn Pengalaman
+              Pengalaman Proyek
             </div>
           </motion.div>
 
